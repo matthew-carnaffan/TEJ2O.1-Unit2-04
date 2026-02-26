@@ -14,4 +14,3 @@ basic.showString('The current temperature is ' + (temperature).toString() + 'C.'
 basic.clearScreen()
 basic.showIcon(IconNames.Happy)
 })
-
